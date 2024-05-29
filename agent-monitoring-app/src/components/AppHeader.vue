@@ -1,7 +1,7 @@
 <template>
   <div class="hero">
-      <img src="../assets/yuri.yeti.png" alt="Yuri the Yeti">
-      <h1>Vue My Agents</h1>
+      <img src="../assets/ebay.png" alt="ebay">
+      <h1>Web Socket Events POC : Agents Status Sync</h1>
   </div>
 </template>
 
